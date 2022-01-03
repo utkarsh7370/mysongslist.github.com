@@ -8,8 +8,8 @@ const artist = document.getElementById("artist");
 
 const songs = [
     {
-        name: "Chhor_Diya_Wo_Rasta",
-        title: "Chhor Diya Wo Rasta",
+        name: "Chhod_Diya",
+        title: "Chhod Diya",
         artist: "Arijit Singh",
     },
     {
